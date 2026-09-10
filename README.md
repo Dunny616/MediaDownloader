@@ -1,19 +1,33 @@
-<!--
- * @Author: Dunny616 dorian0427@gmail.com
- * @Date: 2026-09-09 21:59:20
- * @LastEditors: Dunny616 dorian0427@gmail.com
- * @LastEditTime: 2026-09-09 22:23:28
- * @FilePath: \prog\videos\MediaDowloader\README.md
- * @Description: 生成遇到问题，请再试试
--->
 # 🎬 MediaDownloader
 
-Aplicación de escritorio portable para Windows para descargar videos y música usando Python, CustomTkinter y `yt-dlp`.
+Aplicación de escritorio portable para Windows diseñada con Python, CustomTkinter y `yt-dlp` para descargar videos y música de forma sencilla y rápida.
+
+---
 
 ## ✨ Características
-* Interfaz moderna en modo oscuro.
-* Descarga de videos en diversas resoluciones y conversión a MP3.
-* Detección e instalación automática de los binarios de FFmpeg.
+
+* **Interfaz moderna**: Diseño limpio en modo oscuro adaptado con CustomTkinter.
+* **Descarga flexible**: Soporte para múltiples resoluciones de video y conversión automática a MP3.
+* **Gestión inteligente de dependencias**: Detección e integración automática de los binarios de FFmpeg.
+
+---
+
+## 🛠️ Tecnologías y Dependencias
+
+Este proyecto utiliza las siguientes herramientas y librerías de código abierto:
+* **[Python](https://www.python.org/)** - Lenguaje de programación.
+* **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)** - Framework de interfaz gráfica.
+* **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - Motor de extracción multimedia.
+* **[FFmpeg](https://ffmpeg.org/)** - Procesamiento de audio y video.
+
+---
+
+## 🎨 Créditos y Atribuciones
+
+* **Icono de la aplicación**: Creado por **[kliwir art](https://www.flaticon.com/authors/kliwir-art)** en [Flaticon](https://www.flaticon.com/).
+
+---
 
 ## 📄 Licencia
-Este proyecto está bajo la Licencia MIT.
+
+Este proyecto se distribuye bajo los términos de la Licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
