@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+ffmpeg.exe
+ffprobe.exe
+*.zip
+_temp_dl/
+*.mp4
+*.mp3
+*.webm
