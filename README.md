@@ -1,3 +1,11 @@
+<!--
+ * @Author: Dunny616 dorian0427@gmail.com
+ * @Date: 2026-09-09 22:20:37
+ * @LastEditors: Dunny616 dorian0427@gmail.com
+ * @LastEditTime: 2026-09-09 22:28:29
+ * @FilePath: \MediaDowloader\README.md
+ * @Description: 生成遇到问题，请再试试
+-->
 # 🎬 MediaDownloader
 
 Aplicación de escritorio portable para Windows diseñada con Python, CustomTkinter y `yt-dlp` para descargar videos y música de forma sencilla y rápida.
